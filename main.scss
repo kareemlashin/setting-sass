@@ -1,0 +1,10 @@
+@import '_prefix.scss';
+@import '_media.scss';
+@import '_mixins.scss';
+@import '_shadow.scss';
+@import '_utils.scss';
+@import '_common.scss';
+@import '_variables.scss';
+.color {
+    color: $color;
+}
